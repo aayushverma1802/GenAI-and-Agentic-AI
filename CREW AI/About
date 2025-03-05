@@ -1,0 +1,5 @@
+This is a travel planner developed using Crew AI. The initial prototype utilizes three agents that retrieve information via Llama.
+Since the system leverages DuckDuckGo for search, the results may vary.
+The code runs locally without any external API calls. Consequently, the model's processing time depends on your 
+internet speed and system specifications.
+GPU is preferred as it take alot of computation and may lead to an OS crash.
