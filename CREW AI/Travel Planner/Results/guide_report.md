@@ -1,0 +1,2 @@
+Rome is not in France, but rather it is the capital city of Italy. However, ancient Rome did have influence on Gaul (which is now modern-day France). The Roman Empire expanded into Gaul, which was inhabited by various tribes such as the Gauls, Aquitani, and Belgae. The Romans eventually conquered Gaul and incorporated it into their empire. Today, Rome is a popular tourist destination in Italy, known for its rich history, architecture, and culture.
+```
