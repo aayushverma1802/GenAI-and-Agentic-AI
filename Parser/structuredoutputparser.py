@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from langchain_core.prompts import PromptTemplate
 from langchain.output_parsers import StructuredOutputParser, ResponseSchema
 
-load_dotenv()
+load_dotenv() 
 
 # Define the model
 llm = HuggingFaceEndpoint(
