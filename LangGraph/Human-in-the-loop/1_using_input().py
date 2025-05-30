@@ -21,7 +21,7 @@ def generate_post(state: State):
 def get_review_decision(state: State):  
     post_content = state["messages"][-1].content 
     
-    print("\n📢 Current LinkedIn Post:\n")
+    print("\n Current LinkedIn Post:\n")
     print(post_content)
     print("\n")
 
@@ -35,9 +35,9 @@ def get_review_decision(state: State):
 
 def post(state: State):  
     final_post = state["messages"][-1].content  
-    print("\n📢 Final LinkedIn Post:\n")
+    print("\n Final LinkedIn Post:\n")
     print(final_post)
-    print("\n✅ Post has been approved and is now live on LinkedIn!")
+    print("\n Post has been approved and is now live on LinkedIn!")
 
 def collect_feedback(state: State):  
     feedback = input("How can I improve this post?")
