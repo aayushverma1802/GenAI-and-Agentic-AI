@@ -12,7 +12,7 @@ import asyncio
 API_KEY = "AIzaSyBc-qTU8SgP2A_p2vwpnKuM3SU1gItrhKE"
 
 def main():
-    """Run a parallel agents example."""
+    """Run a parallel agents example. """
     print("=== Parallel Agents Example ===\n")
     
     # Create multiple agents
