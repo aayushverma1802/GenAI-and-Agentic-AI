@@ -114,5 +114,5 @@ All examples use `gemini-2.0-flash-exp` model. You can change this to other avai
 - Some examples may take longer to execute depending on the complexity of the tasks
 - Example 6 creates a `chat_session.json` file for persistent storage
 - Example 12 includes an interactive loop that requires user input
-- Example 11 uses asyncio for parallel execution
+- Example 11 uses asyncio for parallel execution.
 
